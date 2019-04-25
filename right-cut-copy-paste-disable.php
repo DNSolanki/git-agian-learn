@@ -6,7 +6,7 @@
 </head>
 <body>
     
-<h1>Jquery disable right click, cut, copy and paste example</h1>
+<h1>Jquery disable right click, cut, copy and paste example Dharmendra </h1>
    
 <script type="text/javascript">
     $(document).ready(function(){
