@@ -7,7 +7,7 @@
 <body>
    
 <div class="container">
-  <h1>How to disable f5 refresh button using jquery?</h1>
+  <h1>How to disable f5 refresh button using jquery Dharmendra?</h1>
    
 </div>
    
